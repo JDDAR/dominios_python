@@ -1,0 +1,16 @@
+--> git init : inicializa el proyecto con git / se ejecuta una sola vez  
+--> git status :  identificar el estado del proyecto 
+
+RAMAS EN GIT 
+    Dimensiones para programadores 
+
+    Main -> Rama por defecto 
+
+ARBOLES O ESTADOS 
+    Rojo -> working tree (Espacio de trabajo) archivos no guardados en el git 
+
+COMANDO ---> Git add . 
+    Verde -> parar el archvo de working a 
+
+REPOSITORY --> 
+    git commit --> Zona de tree Guardado Local 
