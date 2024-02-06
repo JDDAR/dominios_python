@@ -14,3 +14,38 @@ COMANDO ---> Git add .
 
 REPOSITORY --> 
     git commit --> Zona de tree Guardado Local 
+
+Comandos Remotos  
+    No se pueden subir cambios  a repositorios, si no se les ha hecho commit <--- IMPORTANTE 
+
+--> Git remote -V (saca una listade los repositorios remotos vinculados al proyecto )
+--> Git remote add origin "url del repositorio remoto creado en github"
+
+____________________________Modelos ____________________________Modelos
+
+Los modelos son representaciones Graficas - ETC ... 
+aislar cosas para sus fines  
+
+
+ABSTRACCION ---> SEPARAR UN ELEMENTO DE SU CONTEXTO 
+
+
+___ Modelo de dominio
+
+Software ideas modeler
+
+Caracteristicas 
+    Entidades --> sustantivos 
+    Atributos --> caracteristicas de una entidad 
+
+    Ejemplo : 
+    Modelo de ingreso a parquedero 
+        Entidades       Atributos 
+            carro ----> placa, modelo 
+
+    
+
+
+
+
+
